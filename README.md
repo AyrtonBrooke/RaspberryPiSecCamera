@@ -1,4 +1,4 @@
-# RaspberryPiSecCamera
+# RaspberryPi Security Camera
 Raspberry Pi Motion-Triggered Security Camera with Email Alerts
 This project sets up a motion-triggered security camera using a Raspberry Pi. When motion is detected, the camera captures an image and immediately sends it via email as an alert. This is useful for home security, remote property monitoring, wildlife observation, and other applications where real-time notifications are crucial.
 
