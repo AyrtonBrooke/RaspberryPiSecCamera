@@ -10,7 +10,9 @@ Low Bandwidth Usage: Unlike live streaming, this setup uses minimal bandwidth, m
 Easy Setup: Simple configuration and setup on a Raspberry Pi with a camera module.
 
 # Getting Started
-Create own email to recieve emails of picture i created on Gmail and go into settings to accept access to third party apps
+Create email to recieve pictures
+I created on Gmail
+Go into settings to accept access to third party apps
 
 Clone the Repository:
 git clone https://github.com/AyrtonBrooke/RaspberryPiSecCamera.git
