@@ -11,7 +11,9 @@ Easy Setup: Simple configuration and setup on a Raspberry Pi with a camera modul
 
 # Getting Started
 Create email to recieve pictures
+
 I created on Gmail
+
 Go into settings to accept access to third party apps
 
 Clone the Repository:
