@@ -9,14 +9,14 @@ Email Notifications: Automatically sends the captured image to a specified email
 Low Bandwidth Usage: Unlike live streaming, this setup uses minimal bandwidth, making it ideal for low-connectivity environments.
 Easy Setup: Simple configuration and setup on a Raspberry Pi with a camera module.
 
-# Getting Started:
+# Getting Started
 Clone the Repository:
 git clone https://github.com/yourusername/pi-motion-camera-alert.git
 
-# Navigate to directory:
+# Navigate to directory
 cd pi-motion-camera-alert
 
-# Install the motion package:
+# Install the motion package
 sudo apt-get update.
 
 sudo apt-get install motion.
@@ -35,18 +35,16 @@ target_dir: Specify the directory where images will be saved.
 
 on_picture_save: Add the command to run your email script whenever an image is saved.
 
-# Save and Exit
+Save and Exit
 
-Set the on_picture_save command to trigger the email script.
-
-# Run the Script:
+# Run the Script
 Start the motion service:
 sudo service motion start
 
 Move in front of the camera to test the setup.
 
-# Customize:
+# Customize
 Modify the Python script to suit your specific email configuration or alerting needs.
 
-# Contributions:
+# Contributions
 Feel free to submit pull requests or open issues to improve the project.
