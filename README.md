@@ -17,8 +17,8 @@ git clone https://github.com/yourusername/pi-motion-camera-alert.git
 cd pi-motion-camera-alert
 
 # Install the motion package:
-sudo apt-get update
-sudo apt-get install motion
+sudo apt-get update.
+sudo apt-get install motion.
 Ensure Python and necessary libraries are installed.
 
 # Configure Motion:
