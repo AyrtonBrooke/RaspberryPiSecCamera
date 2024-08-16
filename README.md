@@ -11,7 +11,7 @@ Easy Setup: Simple configuration and setup on a Raspberry Pi with a camera modul
 
 # Getting Started
 Clone the Repository:
-git clone https://github.com/yourusername/pi-motion-camera-alert.git
+git clone https://github.com/AyrtonBrooke/RaspberryPiSecCamera.git
 
 # Navigate to directory
 cd pi-motion-camera-alert
